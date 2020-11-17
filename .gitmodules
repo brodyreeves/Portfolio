@@ -1,0 +1,3 @@
+[submodule "MyChatAlert"]
+	path = MyChatAlert
+	url = https://github.com/brodyreeves/MyChatAlert
